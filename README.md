@@ -1,5 +1,3 @@
-# Predictive Maintenance using Random Forest & Monte-Carlo Simulation
-
 # Installation Instructions
 
 ## Prerequisites
