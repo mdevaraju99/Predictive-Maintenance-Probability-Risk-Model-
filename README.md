@@ -1,5 +1,26 @@
 # Predictive Maintenance using Random Forest & Monte-Carlo Simulation
 
+
+# Installation Instructions
+
+## Prerequisites
+- List any prerequisites needed before installation, such as software or libraries.
+
+## Installation
+1. Provide detailed instructions on how to install the project.
+2. Include commands and any relevant links.
+
+## Environment Setup
+- Describe how to set up the environment for development or production.
+
+## Project Structure
+- Explain the project's directory structure and files.
+
+## Running the Project
+- Provide commands to run the project.
+
+
+
 ## Project Overview
 Modern industrial machines generate continuous IoT sensor data such as vibration, temperature, humidity, and pressure. Unexpected failures cause downtime, safety risks, and increased maintenance costs.
 
