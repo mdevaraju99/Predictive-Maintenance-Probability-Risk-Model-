@@ -1,24 +1,30 @@
 # Predictive Maintenance using Random Forest & Monte-Carlo Simulation
 
-
 # Installation Instructions
 
 ## Prerequisites
-- List any prerequisites needed before installation, such as software or libraries.
-
-## Installation
-1. Provide detailed instructions on how to install the project.
-2. Include commands and any relevant links.
+- Ensure you have Python 3.x installed.
+- Install required libraries: `pip install -r requirements.txt`
 
 ## Environment Setup
-- Describe how to set up the environment for development or production.
+1. Clone the repository: `git clone https://github.com/mdevaraju99/Predictive_Maintenance`
+2. Navigate into the cloned directory: `cd Predictive_Maintenance`
+3. Set up a virtual environment (optional but recommended):  
+   `python -m venv venv`  
+   `source venv/bin/activate` (Linux/Mac)  
+   `venv\Scripts\activate` (Windows)
 
 ## Project Structure
-- Explain the project's directory structure and files.
+- `src/`: Source code of the project  
+- `data/`: Data files used in the project  
+- `notebooks/`: Jupyter notebooks for exploration and analysis  
 
 ## Running the Project
-- Provide commands to run the project.
+1. Open Jupyter Notebook: `jupyter notebook`
+2. Open the desired notebook and run the cells step by step.
 
+## Usage
+- For predictions, call the `predict()` function from the `src` module after loading the required data.
 
 
 ## Project Overview
